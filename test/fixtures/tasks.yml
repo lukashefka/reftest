@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  filename: MyString
+  user: one
+  group: one
+
+two:
+  filename: MyString
+  user: two
+  group: two
